@@ -1,4 +1,4 @@
-@media (max-width: 812px) {
+@media (min-width: 300px) {
     html {
         font-size: 50px;
     }
@@ -40,13 +40,9 @@
     .skill p {
         padding-bottom: 0.5rem;
     }
-
-    .contact-wrapper {
-        height: 5.7rem;
-    }
 }
 
-@media (max-width: 1024px) {
+@media (min-width: 700px) {
     html {
         font-size: 87px;
     }
