@@ -1,0 +1,61 @@
+@media (max-width: 812px) {
+    html {
+        font-size: 50px;
+    }
+    
+    header h1 {
+        font-size: 0.3rem;
+    }
+    
+    .top-container {
+        background-size: 100%;
+    }
+    
+    .about-wrapper {
+        height: 4rem;
+    }
+    
+    .about-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .about-container img {
+        margin-top: 0.4rem;
+    }
+    
+    .skills-wrapper {
+        height: 8rem;
+    }
+    
+    .skills-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .skill {
+        width: 50%;
+    }
+    
+    .skill p {
+        padding-bottom: 0.5rem;
+    }
+
+    .contact-wrapper {
+        height: 5.7rem;
+    }
+}
+
+@media (max-width: 1024px) {
+    html {
+        font-size: 87px;
+    }
+    
+    .skills-wrapper {
+        height:7rem;
+    }
+    
+    .contact-wrapper {
+        height: 3rem;
+    }
+}
