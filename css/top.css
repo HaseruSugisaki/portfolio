@@ -47,7 +47,7 @@ a {
     height: 3.5rem;
     color: white;
     font-family: 'Caveat', cursive;
-    background-image: url("https://cdn.pixabay.com/photo/2015/07/15/11/53/woodtype-846089_1280.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2016/07/30/20/52/vintage-1557993_1280.jpg");
 }
 
 .top-container h1, h2 {
@@ -121,6 +121,7 @@ a {
     font-family: 'Caveat', cursive;
     text-align: center;
     padding-top: 0.3rem;
+    margin-top: 2rem;
 }
 
 .skills-container {

@@ -28,6 +28,10 @@
         height: 8rem;
     }
     
+    .skills-wrapper h1 {
+        margin-top: 0;
+    }
+    
     .skills-container {
         display: flex;
         flex-wrap: wrap;
@@ -51,7 +55,12 @@
         height:7rem;
     }
     
+    .skills-wrapper h1 {
+        margin-top: 0.5rem;
+    }
+    
     .contact-wrapper {
         height: 3rem;
     }
 }
+
