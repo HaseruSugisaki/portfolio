@@ -64,3 +64,12 @@
     }
 }
 
+@media (min-width: 1400px) {
+    .about-wrapper {
+        height: 5rem;
+    }
+    
+    .skills-wrapper h1 {
+        margin-top: 4rem
+    }
+}
